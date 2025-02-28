@@ -58,3 +58,9 @@ sondern auch die Wettbewerbsfähigkeit Deutschlands im globalen Kontext zu förd
 ## Partner & Beteiligte
 
 Mit einem Gesamtvolumen von über 3 Millionen Euro und einer Förderquote von bis zu 100% wird das Projekt von einem Konsortium führender Institutionen, darunter die Universität Paderborn, das Fraunhofer IEM und viele weitere Partner, unterstützt. Gemeinsam wollen wir über 1500 Unternehmen befähigen, die Potenziale von RAG zu erschließen und diese in ihre bestehenden Systeme zu integrieren.
+
+- [Universität Paderborn](https://dice-research.org)
+- [Institut für Digitale Technologien](https://ifdt.org/)
+- [USU GmbH](https://www.usu.com/de-de/)
+- [DRK-Landesverbandes Rheinland-Pfalz e.V.](https://itc.drk.de/)
+- [Fraunhofer EIM](https://www.iem.fraunhofer.de/)
