@@ -1,0 +1,33 @@
+url: "https://learn2rag.de/"
+#baseurl: "/"
+repository: "learn2rag/learn2rag.github.io"
+remote_theme: learn2rag/minimal-mistakes@4.26.2
+plugins:
+- jekyll-include-cache
+- jekyll-remote-theme
+locale: "de-DE"
+title: "Learn2RAG"
+subtitle: "RAG-Systeme in Unternehmen<br/>
+Ein Forschungsprojekt zur praxisnahen Nutzung von Retrieval-Augmented Generation"
+include: ["_pages"]
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      # author_profile: true
+footer:
+  links:
+    - label: "Impressum"
+      url: "impressum"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/learn2rag"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/"
+atom_feed:
+  hide: true
+minimal_mistakes_skin: "dark"

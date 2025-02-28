@@ -1,8 +1,9 @@
-# Learn2RAG
-
-RAG-Systeme in Unternehmen
-
-Ein Forschungsprojekt zur praxisnahen Nutzung von Retrieval-Augmented Generation
+---
+title: "Learn2RAG"
+permalink: /
+toc: true
+toc_sticky: true
+---
 
 ## Projektüberblick
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
@@ -57,4 +58,3 @@ sondern auch die Wettbewerbsfähigkeit Deutschlands im globalen Kontext zu förd
 ## Partner & Beteiligte
 
 Mit einem Gesamtvolumen von über 3 Millionen Euro und einer Förderquote von bis zu 100% wird das Projekt von einem Konsortium führender Institutionen, darunter die Universität Paderborn, das Fraunhofer IEM und viele weitere Partner, unterstützt. Gemeinsam wollen wir über 1500 Unternehmen befähigen, die Potenziale von RAG zu erschließen und diese in ihre bestehenden Systeme zu integrieren.
-
