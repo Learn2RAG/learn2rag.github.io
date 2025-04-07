@@ -9,6 +9,7 @@ locale: "de-DE"
 title: "Learn2RAG"
 subtitle: "RAG-Systeme in Unternehmen<br/>
 Ein Forschungsprojekt zur praxisnahen Nutzung von Retrieval-Augmented Generation"
+logo: "/assets/images/Learn2RAG.dark.png"
 include: ["_pages"]
 defaults:
   # _pages
