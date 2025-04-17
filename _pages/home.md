@@ -63,4 +63,4 @@ Mit einem Gesamtvolumen von über 3 Millionen Euro und einer Förderquote von bi
 - [Institut für Digitale Technologien](https://ifdt.org/)
 - [USU GmbH](https://www.usu.com/de-de/)
 - [DRK-Landesverbandes Rheinland-Pfalz e.V.](https://itc.drk.de/)
-- [Fraunhofer EIM](https://www.iem.fraunhofer.de/)
+- [Fraunhofer IEM](https://www.iem.fraunhofer.de/)
