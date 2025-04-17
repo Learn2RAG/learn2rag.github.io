@@ -9,7 +9,7 @@ locale: "de-DE"
 title: "Learn2RAG"
 subtitle: "RAG-Systeme in Unternehmen<br/>
 Ein Forschungsprojekt zur praxisnahen Nutzung von Retrieval-Augmented Generation"
-logo: "/assets/images/Learn2RAG.dark.png"
+logo: "/assets/images/Learn2RAG.light.png"
 include: ["_pages"]
 defaults:
   # _pages
@@ -31,4 +31,4 @@ footer:
       url: "https://www.linkedin.com/"
 atom_feed:
   hide: true
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "air"

@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+// https://github.com/mmistakes/minimal-mistakes/blob/90ab9d28b90f4abf63f12dd570ef2c428ca569a2/assets/css/main.scss
+
+@charset "utf-8";
+
+$primary-color: #4890ff;
+$border-color: #6173ff;
+$link-color: #834bff;
+// #ffc107
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
