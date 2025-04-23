@@ -84,8 +84,8 @@ sondern auch die Wettbewerbsfähigkeit Deutschlands im globalen Kontext zu förd
 
 Mit einem Gesamtvolumen von über 3 Millionen Euro wird das Projekt von einem Konsortium führender wissenschaftlicher Institutionen und Softwareentwickler durchgeführt und durch weitreichende Unternehmensnetzwerke unterstützt.
 
-{% include partners %}
+{% include gallery id="partners" %}
 
 ### Assoziierte Netzwerke
 
-{% include assoc_partners %}
+{% include gallery id="assoc_partners" %}
