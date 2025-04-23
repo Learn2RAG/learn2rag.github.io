@@ -1,9 +1,9 @@
 ---
 title: "Learn2RAG"
 permalink: /
-toc: true
-toc_sticky: true
-gallery:
+#toc: true
+#toc_sticky: true
+partners:
   - alt: "Universität Paderborn"
     image_path: /assets/images/UPB.svg
     url: https://dice-research.org/
@@ -19,12 +19,21 @@ gallery:
   - alt: "Fraunhofer IEM"
     image_path: /assets/images/FraunhoferIEM.png
     url: https://www.iem.fraunhofer.de/
+assoc_partners:
+  - alt: "eco Verband"
+    image_path: /assets/images/eco_Logo.PNG
+    url: https://www.eco.de/
+  - alt: "KI Bundesvarband"
+    image_path: /assets/images/KI_Bundesverband_Logo.svg
+    url: https://ki-verband.de/
+  - alt: "LESSIE Netzwerk"
+    image_path: /assets/images/lessie_netzwerk_square.png
+    url: https://lessie.network/
 ---
 
-## Projektüberblick
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
 gefordert, ihre Daten effizient zu nutzen, um wettbewerbsfähig zu bleiben. Das
-Forschungsprojekt „LEARN2RAG“ setzt genau hier an und untersucht die praktischen Mehrwerte
+Forschungsprojekt "Learn2RAG" setzt genau hier an und untersucht die praktischen Mehrwerte
 von Retrieval-Augmented Generation (RAG). Durch innovative Ansätze der generativen
 Künstlichen Intelligenz (KI) zielt das Projekt darauf ab, die Nutzung von großen Sprachmodellen
 (LLMs) für den Mittelstand zu revolutionieren.
@@ -73,6 +82,10 @@ sondern auch die Wettbewerbsfähigkeit Deutschlands im globalen Kontext zu förd
 
 ## Partner & Beteiligte
 
-Mit einem Gesamtvolumen von über 3 Millionen Euro und einer Förderquote von bis zu 100% wird das Projekt von einem Konsortium führender Institutionen, darunter die Universität Paderborn, das Fraunhofer IEM und viele weitere Partner, unterstützt. Gemeinsam wollen wir über 1500 Unternehmen befähigen, die Potenziale von RAG zu erschließen und diese in ihre bestehenden Systeme zu integrieren.
+Mit einem Gesamtvolumen von über 3 Millionen Euro wird das Projekt von einem Konsortium führender wissenschaftlicher Institutionen und Softwareentwickler durchgeführt und durch weitreichende Unternehmensnetzwerke unterstützt.
 
-{% include gallery %}
+{% include partners %}
+
+### Assoziierte Netzwerke
+
+{% include assoc_partners %}
