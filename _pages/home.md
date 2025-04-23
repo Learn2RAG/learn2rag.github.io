@@ -5,6 +5,7 @@ toc: true
 toc_sticky: true
 gallery:
   - alt: "Universität Paderborn"
+    image_path: /assets/images/UPB.svg
     url: https://dice-research.org/
   - alt: "Institut für Digitale Technologien"
     image_path: /assets/images/IfDT.png
