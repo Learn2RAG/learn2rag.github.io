@@ -40,35 +40,28 @@ sidebar:
 
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
 gefordert, ihre Daten effizient zu nutzen, um wettbewerbsfähig zu bleiben. Das
-Forschungsprojekt "Learn2RAG" setzt genau hier an und untersucht die praktischen Mehrwerte
+Forschungsprojekt Learn2RAG setzt genau hier an und untersucht die praktischen Mehrwerte
 von Retrieval-Augmented Generation (RAG). Durch innovative Ansätze der generativen
 Künstlichen Intelligenz (KI) zielt das Projekt darauf ab, die Nutzung von großen Sprachmodellen
 (LLMs) für den Mittelstand zu revolutionieren.
 
-## Motivation
-Die Herausforderungen, die viele Unternehmen beim Einsatz von KI haben, sind vielfältig: Von
-unzureichenden Trainingsdaten bis hin zu hohen Implementierungskosten. LEARN2RAG
-adressiert diese Probleme direkt, indem es eine dateneffiziente, automatisierte Lösung zur
-Erstellung und Bereitstellung von unternehmensspezifischen RAG-Pipelines entwickelt. Diese
-Pipelines ermöglichen es Unternehmen, qualitativ hochwertige, aktuelle und erklärbare
-Antworten aus ihren eigenen Daten zu generieren, ohne dass umfangreiche KI-Expertise
-erforderlich ist.
+## Was ist RAG?
 
-Retrieval-Augmented Generation (RAG) ist ein innovativer Ansatz in der Künstlichen Intelligenz, der
-die Leistungsfähigkeit großer Sprachmodelle (LLMs) mit externen Datenquellen kombiniert, um die
-Qualität und Relevanz der generierten Antworten zu verbessern. Anstatt nur auf vortrainierte
-Modelle zurückzugreifen, integriert RAG relevante Informationen aus spezifischen Datenbanken
-oder Dokumenten, um kontextualisierte und aktuelle Antworten zu liefern.
+Retrieval-Augmented Generation (RAG) kombiniert generative KI mit Ihren internen Daten. Anfragen an die KI werden mithilfe hinterlegter Daten ergänzt. 
 
-### Probleme ohne RAG
-- Datenüberlastung
-- Ineffiziente Informationsverarbeitung
-- Unstrukturierte Inhalte
+{% include figure popup=true image_path="/assets/images/Learn2RAG-what-is-RAG.png" alt="An overview of the general idea of RAG" %}
 
-### Vorteile von RAG
-- Verbesserte Informationsgewinnung
-- Effizientere Prozesse
-- Datenbasierte Entscheidungsfindung
+So entstehen präzisere Antworten, die einfacher überprüfbar sind und unternehmensspezifische Kontext-informationen berücksichtigen.
+
+## Warum sollten Sie mitmachen?
+
+Haben Sie eine oder mehrere der folgenden Herausforderungen?
+
+* Sie würden KI gerne in Ihre Prozesse einbinden, aber die fehlende Nachvollziehbarkeit oder die Möglichkeit von Halluzinationen der KI halten Sie davon ab.
+* Sie wissen nicht, wie Sie Ihre Daten in die Arbeit mit KI-Systemen integrieren können.
+* Relevante Informationen liegen in Ihrem Unternehmen verstreut und sind bei Bedarf nicht einsatzbereit verfügbar.
+* Die Auswahl und Integration passender RAG-Architekturen ist komplex und übersteigt Ihr spezifisches Know-How.
+* Zeit und Fachkräfte fehlen, um neben dem Tagesgeschäft eigene Prototypen zu entwickeln und RAG-Lösungen zu evaluieren.
 
 ## Projektziele & Vorgehen
 - Entwicklung und Evaluierung eines überwachten maschinellen Lernverfahrens zur automatischen Generierung von RAG-Pipelines, die auf spezifische Unternehmensbedürfnisse abgestimmt sind.
@@ -80,12 +73,6 @@ Entwicklung bis hin zur praktischen Anwendung reicht. Durch interaktive Workshop
 die Bereitstellung von Open-Source-Ressourcen wird sichergestellt, dass die Ergebnisse nachhaltig und
 breit genutzt werden können. Ziel ist es, nicht nur die Effizienz in den Unternehmen zu steigern,
 sondern auch die Wettbewerbsfähigkeit Deutschlands im globalen Kontext zu fördern.
-
-- April '25: Anforderungen an die Basisversion
-- Oktober '25: Implementierung Basisversion
-- Dezember 26': Erster Prototyp
-- November '27: Finaler Prototyp
-- Januar 28': Finale Evaluationsergebnisse
 
 ## Partner & Beteiligte
 
