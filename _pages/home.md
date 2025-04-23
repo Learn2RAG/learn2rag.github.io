@@ -1,5 +1,5 @@
 ---
-title: "Learn2RAG"
+#title: "Learn2RAG"
 permalink: /
 #toc: true
 #toc_sticky: true
@@ -29,6 +29,13 @@ assoc_partners:
   - alt: "LESSIE Netzwerk"
     image_path: /assets/images/lessie_netzwerk_square.png
     url: https://lessie.network/
+sidebar:
+#  - title: "Title"
+#    image: http://placehold.it/350x250
+#    image_alt: "image"
+#    text: "Some text here."
+  - title: "Auftaktveranstaltung Generative KI für den Mittelstand"
+    text: "Am 18. Juni 2025 findet die [Auftaktveranstaltung zum Programm Generative KI für den Mittelstand](https://factsfiction.regasus.de/portal/standard/registration/start) im Forum Digitale Technologien in Berlin statt und auch unser Projekt wird dort vorort sein."
 ---
 
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
