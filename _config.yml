@@ -10,6 +10,7 @@ title: "Learn2RAG"
 subtitle: "RAG-Systeme in Unternehmen<br/>
 Ein Forschungsprojekt zur praxisnahen Nutzung von Retrieval-Augmented Generation"
 logo: "/assets/images/Learn2RAG.light.png"
+og_image: "/assets/images/Learn2RAG.light.png"
 include: ["_pages"]
 defaults:
   # _pages
