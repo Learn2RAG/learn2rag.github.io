@@ -16,3 +16,8 @@ $link-color: #834bff;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// gallery
+figure img {
+    border-radius: 0;
+}

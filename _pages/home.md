@@ -17,6 +17,7 @@ gallery:
     image_path: /assets/images/DRK-RLP.svg
     url: https://itc.drk.de/
   - alt: "Fraunhofer IEM"
+    image_path: /assets/images/FraunhoferIEM.png
     url: https://www.iem.fraunhofer.de/
 ---
 
