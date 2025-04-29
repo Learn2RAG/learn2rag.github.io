@@ -1,0 +1,5 @@
+main:
+  - title: "Hauptseite"
+    url: /
+  - title: "Projektergebnisse"
+    url: /deliverables
