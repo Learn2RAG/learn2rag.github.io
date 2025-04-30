@@ -65,8 +65,8 @@ Haben Sie eine oder mehrere der folgenden Herausforderungen?
 
 ## Projektziele & Vorgehen
 - Entwicklung und Evaluierung eines überwachten maschinellen Lernverfahrens zur automatischen Generierung von RAG-Pipelines, die auf spezifische Unternehmensbedürfnisse abgestimmt sind.
-- Ermöglichung des Zugangs zu generativen KI-Technologien für mindestens 1500 Unternehmen, insbesondere für KMUs ohne eigene KI-Expertise.
-- Bereitstellung einer Open-Source-Plattform, die es Unternehmen ermöglicht, die Vorteile von RAG schnell und kosteneffektiv zu nutzen.Methodik & Vorgehen
+- Ermöglichung des Zugangs zu generativen KI-Technologien für mindestens 150 Unternehmen, insbesondere für KMUs ohne eigene KI-Expertise.
+- Bereitstellung einer Open-Source-Plattform, die es Unternehmen ermöglicht, die Vorteile von RAG schnell und kosteneffektiv zu nutzen.
 
 Das Projekt verfolgt einen klaren und strukturierten Ansatz, der von der Forschung über die
 Entwicklung bis hin zur praktischen Anwendung reicht. Durch interaktive Workshops, Webinare und
@@ -76,7 +76,7 @@ sondern auch die Wettbewerbsfähigkeit Deutschlands im globalen Kontext zu förd
 
 ## Partner & Beteiligte
 
-Mit einem Gesamtvolumen von über 3 Millionen Euro wird das Projekt von einem Konsortium führender wissenschaftlicher Institutionen und Softwareentwickler durchgeführt und durch weitreichende Unternehmensnetzwerke unterstützt.
+Mit einem Gesamtvolumen von über 2.7 Millionen Euro wird das Projekt von einem Konsortium führender wissenschaftlicher Institutionen und Softwareentwickler durchgeführt und durch weitreichende Unternehmensnetzwerke unterstützt.
 
 {% include gallery id="partners" %}
 
