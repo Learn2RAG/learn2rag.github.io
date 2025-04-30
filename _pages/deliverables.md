@@ -8,7 +8,7 @@ Als öffentlich gefördertes Forschungsprojekt werden die über die Projektlaufz
 | ID   | Titel                             |
 | ---  | --------------------------------- |
 | E1.1 | [Anforderungen an die Basisversion](/assets/files/E1.1.pdf) |
-| E6.1 | [Erstellung der Onlinepräsenz](/assets/files/E1.1.pdf) |
+| E6.1 | [Erstellung der Onlinepräsenz](/assets/files/E6.1.pdf) |
 | E6.2 | Erstellung von Disseminationsmaterial |
 | E1.2 | Anforderungen an den ersten Plattformprototypen |
 | E2.1 | Einbindung von Schnittstellen für die Basisversion |
