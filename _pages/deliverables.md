@@ -3,13 +3,12 @@ title: "Projektergebnisse"
 permalink: /deliverables
 ---
 
-Learn2RAG ist ein transparentes, öffentlich gefördertes Forschungsprojekt. Dementsprechend werden die über die Projektlaufzeit erzeugten Berichte und Ergebnisse in der folgenden Tabelle verlinkt, sobald sie veröffentlicht wurden.
-
+Als öffentlich gefördertes Forschungsprojekt werden die über die Projektlaufzeit erzeugten Berichte und Ergebnisse von Learn2RAG in der folgenden Tabelle verlinkt, sobald sie veröffentlicht wurden.
 
 | ID   | Titel                             |
 | ---  | --------------------------------- |
-| E1.1 | Anforderungen an die Basisversion |
-| E6.1 | Erstellung der Onlinepräsenz |
+| E1.1 | [Anforderungen an die Basisversion](/assets/files/E1.1) |
+| E6.1 | [Erstellung der Onlinepräsenz](/assets/files/E1.1) |
 | E6.2 | Erstellung von Disseminationsmaterial |
 | E1.2 | Anforderungen an den ersten Plattformprototypen |
 | E2.1 | Einbindung von Schnittstellen für die Basisversion |
