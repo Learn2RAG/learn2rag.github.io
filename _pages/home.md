@@ -19,6 +19,9 @@ partners:
   - alt: "Fraunhofer IEM"
     image_path: /assets/images/FraunhoferIEM.png
     url: https://www.iem.fraunhofer.de/
+  - alt: "it's owl"
+    image_path: /assets/images/OWL-Logo.png
+    url: https://its-owl.de/en/
 assoc_partners:
   - alt: "eco Verband"
     image_path: /assets/images/eco_Logo.PNG
@@ -78,8 +81,24 @@ sondern auch die Wettbewerbsfähigkeit Deutschlands im globalen Kontext zu förd
 
 Mit einem Gesamtvolumen von über 2.7 Millionen Euro wird das Projekt von einem Konsortium führender wissenschaftlicher Institutionen und Softwareentwickler durchgeführt und durch weitreichende Unternehmensnetzwerke unterstützt.
 
-{% include gallery id="partners" %}
+<div class="partners-gallery">
+  {% for partner in page.partners %}
+    <figure class="partner-item">
+      <a href="{{ partner.url }}">
+        <img src="{{ partner.image_path | relative_url }}" alt="{{ partner.alt }}">
+      </a>
+    </figure>
+  {% endfor %}
+</div>
 
 ### Assoziierte Netzwerke
 
-{% include gallery id="assoc_partners" %}
+<div class="partners-gallery">
+  {% for partner in page.assoc_partners %}
+    <figure class="partner-item">
+      <a href="{{ partner.url }}">
+        <img src="{{ partner.image_path | relative_url }}" alt="{{ partner.alt }}">
+      </a>
+    </figure>
+  {% endfor %}
+</div>

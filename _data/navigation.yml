@@ -1,0 +1,5 @@
+main:
+  - title: "Projekt"
+    url: "https://github.com/learn2rag"
+  - title: "Projektergebnisse"
+    url: "/deliverables/"

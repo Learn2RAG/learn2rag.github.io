@@ -12,6 +12,8 @@ $text-color: black;
 $primary-color: #4890ff;
 $border-color: #6173ff;
 $link-color: #834bff;
+$header-bg: #4890ff;
+$header-text: white;
 // #ffc107
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -21,3 +23,51 @@ $link-color: #834bff;
 figure img {
     border-radius: 0;
 }
+$header-text: white;
+
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav__toggle,
+.masthead__menu,
+.site-title,
+.site-subtitle {
+    background-color: $header-bg !important;
+    color: $header-text !important;
+}
+.masthead__menu-item a,
+.greedy-nav a {
+    color: $header-text !important;
+    text-decoration: none;
+}
+
+.masthead__menu-item a:hover,
+.site-title:hover {
+    text-decoration: underline;
+    color: lighten($header-text, 10%) !important;
+}
+
+.partners-gallery {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin: 2rem auto;
+    width: 100%;
+
+    .partner-item {
+        margin: 0;
+        padding: 0;
+
+        img {
+            height: 50px;
+            width: auto;
+            object-fit: contain;
+            border-radius: 0;
+        }
+    }
+}
+
+
