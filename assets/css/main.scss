@@ -23,23 +23,56 @@ $header-text: white;
 figure img {
     border-radius: 0;
 }
-$header-text: white;
 
-.masthead,
-.masthead__inner-wrap,
+
+// HEADER AREA
+.masthead {
+    background: linear-gradient(to right, #4c1d95, #7c3aed, #3b82f6) !important;
+    box-shadow: none !important;
+    border: none;
+    padding: 1.5rem 0;
+}
+
+.masthead__inner-wrap {
+    background: transparent !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 auto;
+}
+
+// SITE TITLE AND SUBTITLE
+.site-title,
+.site-subtitle {
+    color: white !important;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
+}
+
+// NAVIGATION LINKS
 .greedy-nav,
 .greedy-nav .visible-links,
 .greedy-nav__toggle,
 .masthead__menu,
-.site-title,
-.site-subtitle {
-    background-color: $header-bg !important;
-    color: $header-text !important;
+.masthead__menu-item a {
+    background: transparent !important;
+    color: white !important;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
 }
-.masthead__menu-item a,
-.greedy-nav a {
-    color: $header-text !important;
-    text-decoration: none;
+
+// REMOVE DEFAULT BACKGROUND CONTAINERS IF ANY
+header,
+nav {
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none;
+}
+.site-logo img {
+    filter: drop-shadow(3px 3px 8px rgba(0, 0, 0, 0.8)) brightness(1.1);
+    max-height: 60px;
+}
+
+.greedy-nav a,
+.masthead__menu-item a {
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
 }
 
 .masthead__menu-item a:hover,
@@ -70,4 +103,35 @@ $header-text: white;
     }
 }
 
+.page__footer,
+.site-footer {
+    background: linear-gradient(to right, #4c1d95, #7c3aed, #3b82f6) !important;
+    color: white;
+    padding: 2rem 0;
+    text-align: left;
+    border-top: none;
+    box-shadow: none;
+}
 
+.page__footer a,
+.site-footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.page__footer a:hover,
+.site-footer a:hover {
+    color: lighten(#ffffff, 15%);
+}
+
+.fa-linkedin {
+    color: #000 !important;
+}
+
+.greedy-nav .hidden-links a {
+    color: #000 !important; // Use #007BFF or another shade if you'd prefer blue
+}
+
+.greedy-nav__toggle .fa-bars {
+    color: white !important;
+}

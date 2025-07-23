@@ -3,6 +3,8 @@
 permalink: /
 #toc: true
 #toc_sticky: true
+header:
+  image: /assets/images/Learn2RAG_Header.png
 partners:
   - alt: "Universität Paderborn"
     image_path: /assets/images/UPB.svg
