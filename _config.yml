@@ -9,9 +9,14 @@ locale: "de-DE"
 title: "Learn2RAG"
 subtitle: "RAG-Systeme in Unternehmen<br/>
 Ein Forschungsprojekt zur praxisnahen Nutzung von Retrieval-Augmented Generation"
-logo: "/assets/images/Learn2RAG.light.png"
-og_image: "/assets/images/Learn2RAG.light.png"
-include: ["_pages"]
+logo: "/assets/images/Learn2RAG.dark.png"
+og_image: "/assets/images/Learn2RAG.dark.png"
+collections:
+  events:
+    output: true
+    permalink: /events/:name/blog/
+
+include: ["_pages", "_events"]
 defaults:
   # _pages
   - scope:
@@ -20,6 +25,12 @@ defaults:
     values:
       layout: single
       # author_profile: true
+header:
+  nav:
+    sticky: false
+    responsive: true
+
+
 footer:
   links:
     - label: "Projektergebnisse"
@@ -30,7 +41,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/learn2rag"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/"
 atom_feed:
   hide: true
