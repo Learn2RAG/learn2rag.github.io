@@ -39,8 +39,8 @@ sidebar:
 #    image: http://placehold.it/350x250
 #    image_alt: "image"
 #    text: "Some text here."
-  - title: "Auftaktveranstaltung Generative KI für den Mittelstand"
-    text: "Am 18. Juni 2025 findet die [Auftaktveranstaltung zum Programm Generative KI für den Mittelstand](https://factsfiction.regasus.de/portal/standard/registration/start) im Forum Digitale Technologien in Berlin statt und auch unser Projekt wird dort vorort sein."
+  - title: "Workshops 2025"
+    text: "Im September und Oktober 2025 organisieren wir Workshops zum Thema RAG. [Mehr dazu hier](https://learn2rag.de/events/)"
 ---
 
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
