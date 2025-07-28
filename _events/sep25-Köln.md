@@ -7,8 +7,6 @@ permalink: /events/sep25-Köln/
 categories: events
 ---
 
-# Workshop in Köln
-
 Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen aber nicht wie? Kommen Sie nach Köln und tauschen sich mit dem Learn2RAG Forschungsprojekt aus. Erfahren Sie mehr über Retrieval-Augmented Generation (RAG), wie es Ihnen bei der Arbeit helfen kann und was das Learn2RAG Projekt für Sie bereitstellt. Gleichzeitig interessiert uns brennend was genau Sie in der Praxis benötigen.
 
 **Die Teilnahme ist kostenlos**
@@ -26,7 +24,16 @@ Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen
 | 17:45 Uhr | Ergebnisdiskussion und Q&A-Runde | 
 | 18:15 Uhr | Ausklang mit Networking | 
 
+## Ort
+
+eco - Verband der Internetwirtschaft e.V.
+Lichtstr. 43i
+50825 Köln
+[Auf OpenStreetMap anzeigen](https://www.openstreetmap.org/way/77488892)
+
 ## Registrierung
+
+Die Registrierung des Workshops wird durch den [eco - Verband der Internetwirtschaft e.V.](https://www.eco.de/event/learn2rag-workshop-11092025/) abgewickelt. 
 
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/demo/democon/widget/v2.css">
 <script type="text/javascript" src="https://pretix.eu/widget/v2.en.js" async></script>
