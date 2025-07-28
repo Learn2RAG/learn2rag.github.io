@@ -28,6 +28,8 @@ Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen
 
 ## Registrierung
 
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/demo/democon/widget/v2.css">
+<script type="text/javascript" src="https://pretix.eu/widget/v2.en.js" async></script>
 <pretix-widget event="https://pretix.eu/eco-ev/Learn2RAG-110925/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
