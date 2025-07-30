@@ -1,6 +1,6 @@
 ---
 title: "Workshop in Heilbronn"
-date: 2025-10-09
+date: 2025-07-30
 event_date: 2025-10-09
 layout: single
 permalink: /events/okt25-heilbronn/
