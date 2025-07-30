@@ -9,7 +9,7 @@ Als öffentlich gefördertes Forschungsprojekt werden die über die Projektlaufz
 | ---  | --------------------------------- |
 | E1.1 | [Anforderungen an die Basisversion](/assets/files/E1.1.pdf) |
 | E6.1 | [Erstellung der Onlinepräsenz](/assets/files/E6.1.pdf) |
-| E6.2 | Erstellung von Disseminationsmaterial |
+| E6.2 | [Erstellung von Disseminationsmaterial](/assets/files/E6.2.pdf) |
 | E1.2 | Anforderungen an den ersten Plattformprototypen |
 | E2.1 | Einbindung von Schnittstellen für die Basisversion |
 | E3.1 | Implementierung einer RAG Pipeline für die Basisversion |
