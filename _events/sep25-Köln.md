@@ -26,9 +26,9 @@ Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen
 
 ## Ort
 
-eco - Verband der Internetwirtschaft e.V.
-Lichtstr. 43i
-50825 Köln
+eco - Verband der Internetwirtschaft e.V.<br/>
+Lichtstr. 43i<br/>
+50825 Köln<br/>
 [Auf OpenStreetMap anzeigen](https://www.openstreetmap.org/way/77488892)
 
 ## Registrierung

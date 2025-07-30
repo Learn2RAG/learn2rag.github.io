@@ -26,9 +26,9 @@ Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen
 
 ## Ort
 
-eco - Hauptstadtbüro Berlin 
-Französische Straße 48 
-10117 Berlin
+eco - Hauptstadtbüro Berlin <br/>
+Französische Straße 48 <br/>
+10117 Berlin<br/>
 [Auf OpenStreetMap anzeigen](https://www.openstreetmap.org/node/542421950)
 
 ## Registrierung
