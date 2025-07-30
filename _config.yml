@@ -34,15 +34,15 @@ header:
 footer:
   links:
     - label: "Projektergebnisse"
-      url: "deliverables"
+      url: "/deliverables"
     - label: "Impressum"
-      url: "impressum"
+      url: "/impressum"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/learn2rag"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/company/learn2rag"
 atom_feed:
   hide: true
 minimal_mistakes_skin: "air"
