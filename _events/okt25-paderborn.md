@@ -33,15 +33,15 @@ Zukunftsmeile 2<br/>
 
 ## Registrierung
 
-Die Registrierung des Workshops wird durch den [eco - Verband der Internetwirtschaft e.V.](https://www.eco.de/event/learn2rag-workshop-11092025/) abgewickelt. 
+Die Registrierung des Workshops wird durch den [eco - Verband der Internetwirtschaft e.V.](https://www.eco.de/event/learn2rag-workshop-07102025/) abgewickelt. 
 
-<link rel="stylesheet" type="text/css" href=https://pretix.eu/eco-ev/Learn2RAG-071025/widget/v2.css crossorigin/>
-<script type="text/javascript" src=https://pretix.eu/widget/v2.de.js async crossorigin></script>
-<pretix-widget event=https://pretix.eu/eco-ev/Learn2RAG-071025/></pretix-widget>
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/eco-ev/Learn2RAG-071025/widget/v2.css" crossorigin/>
+<script type="text/javascript" src="https://pretix.eu/widget/v2.de.js" async crossorigin></script>
+<pretix-widget event="https://pretix.eu/eco-ev/Learn2RAG-071025"/></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticketshop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href=https://pretix.eu/eco-ev/Learn2RAG-071025/>hier</a>.
+            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticketshop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/eco-ev/Learn2RAG-071025"/>hier</a>.
         </div>
     </div>
 </noscript>
