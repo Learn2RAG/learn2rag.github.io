@@ -4,7 +4,7 @@ layout: single
 permalink: /events/
 ---
 
-## Upcoming Events
+## Nächste Events
 
 <ul>
   {% assign now = site.time | date: "%Y-%m-%d" %}
