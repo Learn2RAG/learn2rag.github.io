@@ -13,16 +13,48 @@ Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen
 
 ## Agenda
 
-| **Zeit** | **Programmpunkt** |
-|---|---|
-| 14:30 Uhr | Registrierung |
-| 15:00 Uhr | Begrüßung |
-| 15:15 Uhr | Vorstellung Projekt Learn2RAG | 
-| 15:45 Uhr | Success-Stories mit RAG | 
-| 16:15 Uhr | Pause mit Networking | 
-| 16:45 Uhr | World Café | 
-| 17:45 Uhr | Ergebnisdiskussion und Q&A-Runde | 
-| 18:15 Uhr | Ausklang mit Networking | 
+<table>
+  <thead>
+    <tr>
+      <th><strong>Zeit</strong></th>
+      <th><strong>Programmpunkt</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14:30 Uhr</td>
+      <td>Registrierung</td>
+    </tr>
+    <tr>
+      <td>15:00 Uhr</td>
+      <td>Begrüßung</td>
+    </tr>
+    <tr>
+      <td>15:15 Uhr</td>
+      <td>Vorstellung Projekt Learn2RAG<br/>Warum RAG? Key Facts, Ziele und Potenziale des Forschungsprojekts</td>
+    </tr>
+    <tr>
+      <td>15:45 Uhr</td>
+      <td>Praxisbeispiele mit RAG<br/>Wie gelingt die Einbindung? Was braucht der Mittelstand?<br/>Welche Herausforderungen gilt es zu überwinden?</td>
+    </tr>
+    <tr>
+      <td>16:15 Uhr</td>
+      <td>Pause mit Networking</td>
+    </tr>
+    <tr>
+      <td>16:45 Uhr</td>
+      <td>World Café</td>
+    </tr>
+    <tr>
+      <td>17:45 Uhr</td>
+      <td>Ergebnisdiskussion und Q&amp;A-Runde</td>
+    </tr>
+    <tr>
+      <td>18:15 Uhr</td>
+      <td>Ausklang mit Networking</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Ort
 
