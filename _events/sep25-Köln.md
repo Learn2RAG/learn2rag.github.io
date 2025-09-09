@@ -1,13 +1,13 @@
 ---
 title: "Workshop in Köln"
-date: 2025-07-30
+date: 2025-09-09
 event_date: 2025-09-11
 layout: single
 permalink: /events/sep25-Köln/
 categories: events
 ---
 
-Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen aber nicht wie? Kommen Sie nach Köln und tauschen sich mit dem Learn2RAG Forschungsprojekt aus. Erfahren Sie mehr über Retrieval-Augmented Generation (RAG), wie es Ihnen bei der Arbeit helfen kann und was das Learn2RAG Projekt für Sie bereitstellt. Gleichzeitig interessiert uns brennend was genau Sie in der Praxis benötigen.
+Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen aber nicht wie? Kommen Sie nach Köln und tauschen sich mit dem Learn2RAG Forschungsprojekt aus. Erfahren Sie mehr über Retrieval-Augmented Generation (RAG), wie es Ihnen bei der Arbeit helfen kann und was das Learn2RAG Projekt für Sie bereitstellt. Gleichzeitig interessiert uns brennend was genau Sie in der Praxis benötigen. Ein Beispiel für RAG in der Praxis wird von Carolin Walter, Senior Software Engineer der [USU AG](https://www.usu.com/de/), vorstellen.
 
 **Die Teilnahme ist kostenlos**
 
