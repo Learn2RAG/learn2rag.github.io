@@ -1,7 +1,7 @@
 ---
 title: "Workshop in Paderborn"
-date: 2025-08-04
-event_date: 2025-09-09
+date: 2025-09-09
+event_date: 2025-10-07
 layout: single
 permalink: /events/okt25-paderborn/
 categories: events
