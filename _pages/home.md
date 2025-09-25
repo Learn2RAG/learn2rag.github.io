@@ -21,9 +21,6 @@ partners:
   - alt: "Fraunhofer IEM"
     image_path: /assets/images/FraunhoferIEM.png
     url: https://www.iem.fraunhofer.de/
-  - alt: "it's owl"
-    image_path: /assets/images/OWL-Logo.png
-    url: https://its-owl.de/en/
 assoc_partners:
   - alt: "eco Verband"
     image_path: /assets/images/eco_Logo.PNG
@@ -34,6 +31,9 @@ assoc_partners:
   - alt: "LESSIE Netzwerk"
     image_path: /assets/images/lessie_netzwerk_square.png
     url: https://lessie.network/
+  - alt: "it's owl"
+    image_path: /assets/images/OWL-Logo.png
+    url: https://its-owl.de/en/    
 sidebar:
 #  - title: "Title"
 #    image: http://placehold.it/350x250
