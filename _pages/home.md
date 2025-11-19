@@ -40,7 +40,7 @@ sidebar:
 #    image_alt: "image"
 #    text: "Some text here."
   - title: "Workshops 2025"
-    text: "Im September und Oktober 2025 organisieren wir Workshops zum Thema RAG. [Mehr dazu hier](https://learn2rag.de/events/)"
+    text: "Wegen der hohen Nachfrage gibt es ein zusätzliches Webinar im November 2025. [Mehr dazu hier](https://learn2rag.de/events/)"
 ---
 
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
