@@ -4,7 +4,7 @@ permalink: /
 #toc: true
 #toc_sticky: true
 header:
-  image: /assets/images/Learn2RAG_Header.png
+  #image: /assets/images/Learn2RAG_Header.png
 partners:
   - alt: "Universität Paderborn"
     image_path: /assets/images/UPB.svg
@@ -34,13 +34,13 @@ assoc_partners:
   - alt: "it's owl"
     image_path: /assets/images/OWL-Logo.png
     url: https://its-owl.de/en/    
-sidebar:
+#sidebar:
 #  - title: "Title"
 #    image: http://placehold.it/350x250
 #    image_alt: "image"
 #    text: "Some text here."
-  - title: "Workshops 2025"
-    text: "Wegen der hohen Nachfrage gibt es ein zusätzliches Webinar im November 2025. [Mehr dazu hier](https://learn2rag.de/events/)"
+#  - title: "Workshops 2026"
+#    text: "Wir planen weitere Workshops in 2026. [Mehr dazu hier](https://learn2rag.de/events/)"
 ---
 
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
@@ -54,7 +54,7 @@ Künstlichen Intelligenz (KI) zielt das Projekt darauf ab, die Nutzung von groß
 
 Retrieval-Augmented Generation (RAG) kombiniert generative KI mit Ihren internen Daten. Anfragen an die KI werden mithilfe hinterlegter Daten ergänzt. 
 
-{% include figure popup=true image_path="/assets/images/Learn2RAG-what-is-RAG.png" alt="An overview of the general idea of RAG" %}
+{% include figure popup=true image_path="/assets/images/Learn2RAG-what-is-RAG.svg" alt="An overview of the general idea of RAG" %}
 
 So entstehen präzisere Antworten, die einfacher überprüfbar sind und unternehmensspezifische Kontext-informationen berücksichtigen.
 

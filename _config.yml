@@ -33,10 +33,14 @@ header:
 
 footer:
   links:
-    - label: "Projektergebnisse"
-      url: "/deliverables"
     - label: "Impressum"
       url: "/impressum"
+    - label: "Downloads"
+      url: "/downloads"
+    - label: "Dokumentation"
+      url: "https://docs.learn2rag.de/"
+    - label: "Projektergebnisse"
+      url: "/deliverables"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/learn2rag"
@@ -46,3 +50,7 @@ footer:
 atom_feed:
   hide: true
 minimal_mistakes_skin: "air"
+
+after_footer_scripts:
+  # Script that changes outgoing links to open in a new browser tab
+  - /assets/js/externalLinksHandler.js

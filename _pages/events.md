@@ -6,6 +6,8 @@ permalink: /events/
 
 ## Nächste Events
 
+Wir planen weitere Workshops für die 2. Hälfte in 2026.
+
 <ul>
   {% assign now = site.time | date: "%Y-%m-%d" %}
   {% assign upcoming_events = site.events | where_exp: "item", "item.event_date" | sort: "event_date" %}
