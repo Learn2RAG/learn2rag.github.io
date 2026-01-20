@@ -14,7 +14,7 @@ Als öffentlich gefördertes Forschungsprojekt werden die über die Projektlaufz
 | E2.1 | [Einbindung von Schnittstellen für die Basisversion](/assets/files/E2.1.pdf) |
 | E3.1 | [Implementierung einer RAG Pipeline für die Basisversion](/assets/files/E3.1.pdf) |
 | E4.1 | [Implementierung der Basisversion](/assets/files/E4.1.pdf) |
-| E7.1 | Projektbericht Jahr 1 |
+| E7.1 | [Projektbericht Jahr 1](/assets/files/E7.1.pdf) |
 | E1.3 | Anforderungen an den finalen Plattformprototypen |
 | E2.2 | Einbindung von Schnittstellen für die erste Plattformversion |
 | E3.2 | Implementierung eines Lernalgorithmus einer RAG Pipeline für die erste Plattformversion |
