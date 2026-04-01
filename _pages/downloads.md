@@ -8,8 +8,9 @@ permalink: /downloads
 
 Die Basisversion (v0.1) ist die Umsetzung eines naiven Retrieval Augmented Generation (RAG) Systems, das kostenlos heruntergeladen und lokal ausgeführt werden kann.
 
-* 📦 [Linux (Kernel 3.2+, glibc 2.17+)](https://files.dice-research.org/projects/Learn2RAG/releases/v0.1/learn2rag-linux-v0.1.zip)
-* 📦 [Windows (Windows 10+, Windows Server 2016+)](https://files.dice-research.org/projects/Learn2RAG/releases/v0.1/learn2rag-windows-v0.1.zip)
+* 📦 [Linux (Kernel 3.2+, glibc 2.17+)](https://files.dice-research.org/projects/Learn2RAG/releases/v0.2.0/learn2rag-linux.zip)
+
+* 📦 [Windows (Windows 10+, Windows Server 2016+)](https://files.dice-research.org/projects/Learn2RAG/releases/v0.2.0/learn2rag-windows.zip)
 
 Sie finden eine Installationsanleitung in unserer [Dokumentation](https://docs.learn2rag.de/de/basic/Administratorhandbuch).
 
