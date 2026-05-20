@@ -34,13 +34,13 @@ assoc_partners:
   - alt: "it's owl"
     image_path: /assets/images/OWL-Logo.png
     url: https://its-owl.de/en/    
-#sidebar:
+sidebar:
 #  - title: "Title"
 #    image: http://placehold.it/350x250
 #    image_alt: "image"
 #    text: "Some text here."
-#  - title: "Workshops 2026"
-#    text: "Wir planen weitere Workshops in 2026. [Mehr dazu hier](https://learn2rag.de/events/)"
+  - title: "Nächste Events"
+    text: "Wir sind demnächst auf der INTERSCHUTZ 2026 und der GenAI Connect #13. [Mehr dazu hier](https://learn2rag.de/events/)"
 ---
 
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
