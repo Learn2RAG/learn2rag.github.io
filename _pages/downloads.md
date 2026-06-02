@@ -15,6 +15,10 @@ https://files.dice-research.org/projects/Learn2RAG/releases/v0.3.0/learn2rag-win
 
 Sie finden eine Installationsanleitung in unserer [Dokumentation](https://docs.learn2rag.de/de/basic/Administratorhandbuch).
 
+Die Liste der Neuerungen finden Sie in unserem [Changelog](
+https://github.com/Learn2RAG/configurator/blob/master/CHANGELOG.md
+).
+
 ## Vorherige Versionen
 
 Dort findest du vorherige Versionen:
