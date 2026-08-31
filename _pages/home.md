@@ -40,7 +40,7 @@ sidebar:
 #    image_alt: "image"
 #    text: "Some text here."
   - title: "Nächste Events"
-    text: "Wir sind demnächst auf der INTERSCHUTZ 2026 und der GenAI Connect #13. [Mehr dazu hier](https://learn2rag.de/events/)"
+    text: "Wir sind im Oktober auf dem AI Catalyst Summit und der IT-Trends. [Mehr dazu hier](https://learn2rag.de/events/)"
 ---
 
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
