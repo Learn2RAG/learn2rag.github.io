@@ -4,26 +4,21 @@ layout: single
 permalink: /downloads
 ---
 
-## Die neueste Version (v0.3.0)
+## Die neueste Version (v1.0.0)
 
 * 📦 [Linux (Kernel 3.2+, glibc 2.17+)](
-https://files.dice-research.org/projects/Learn2RAG/releases/v0.3.0/learn2rag-linux.zip
+https://files.dice-research.org/projects/Learn2RAG/releases/v1.0.0/learn2rag-linux.zip
 )
 * 📦 [Windows (Windows 10+, Windows Server 2016+)](
-https://files.dice-research.org/projects/Learn2RAG/releases/v0.3.0/learn2rag-windows.zip
+https://files.dice-research.org/projects/Learn2RAG/releases/v1.0.0/learn2rag-windows.zip
 )
 
-Sie finden eine Installationsanleitung in unserer [Dokumentation](https://docs.learn2rag.de/de/basic/Administratorhandbuch).
+### Dokumentation
 
-Die Liste der Neuerungen finden Sie in unserem [Changelog](
+* Sie finden eine Installationsanleitung in unserer [Dokumentation](https://docs.learn2rag.de/de/basic/Administratorhandbuch).
+* Die Liste der Neuerungen finden Sie in unserem [Changelog](
 https://github.com/Learn2RAG/configurator/blob/master/CHANGELOG.md
 ).
-
-## Vorherige Versionen
-
-Dort findest du vorherige Versionen:
-
-* https://files.dice-research.org/projects/Learn2RAG/releases/
 
 ### Mindestanforderungen
 
@@ -33,3 +28,7 @@ Die Anforderungen der Software richtet sich nach der Art und Weise, wie und vor 
 * Adminrechte auf dem Computer während der Installation
 
 Bitte beachten Sie zusätzlich die Anforderungen des verwendeten Sprachmodells.
+
+## Vorherige Versionen
+
+Alle Versionen der Learn2RAG Software, inklusive vorheriger Versionen sind hier erhältlich: [https://files.dice-research.org/projects/Learn2RAG/releases/](https://files.dice-research.org/projects/Learn2RAG/releases/)
