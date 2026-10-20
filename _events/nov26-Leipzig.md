@@ -1,13 +1,15 @@
 ---
 title: "Workshop in Leipzig"
-date: 2026-10-19
+date: 2026-10-20
 event_date: 2026-11-12
 layout: single
 permalink: /events/sep26-Leipzig/
 categories: events
 ---
 
-Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen aber nicht wie? Kommen Sie nach Leipzig und tauschen sich mit dem Learn2RAG Forschungsprojekt aus. Mit dem Titel "RAG-Pipelines für KMU ohne KI-Expertise" bieten wir ihnen eine kurze, praxisorientierte Weiterbildung mit den folgenden Inhalten an:
+Wie können Unternehmen und öffentliche Einrichtungen ihre eigenen Daten mit Hilfe generativer KI besser sicher und effizient nutzen? 
+
+Genau mit dieser Frage beschäftigt sich LEARN2RAG, ein Forschungsprojekt des KI Bundesverbandes. Im Mittelpunkt steht der praktische Mehrwert von Retrieval-Augmented Generation (RAG) und die Frage, wie große Sprachmodelle (LLMs) speziell für den Mittelstand nutzbar und wertschöpfend gemacht werden können.
 
 * Grundlagen generativer KI: Lernen sie essentielle Grundlagen zur Funktionsweise von großen Sprachmodellen und Einbettungsmodellen kennen, die eine Bewertung von Lösungen vereinfachen können.
 
@@ -21,7 +23,9 @@ Sie sind interessiert daran generative KI in Ihrem Unternehmen zu nutzen, wissen
 
 Wir freuen uns, dass Andreas Richter, Geschäftsführer der [TIQ Solutions GmbH](https://www.tiq-solutions.de/) während des Workshops einen weiteren Einblick zum Thema RAG in der Praxis geben wird.
 
-**Die Teilnahme ist kostenlos**
+**Zielgruppe**: KMU-Entscheider:innen, Führungskräfte, IT- & Innovationsverantwortliche sowie Vertreter:innen öffentlicher Einrichtungen
+
+**Die Teilnahme ist kostenlos**  Da die Plätze für die interaktiven Hands-on-Sessions begrenzt sind, bitten wir um eine frühzeitige Registrierung.  
 
 ## Agenda
 
