@@ -81,4 +81,6 @@ Peterssteinweg 14<br/>
 
 ## Registrierung
 
-Die Registrierung zum Workshop wird über den [KI Bundesverband](https://luma.com/92tythyx) abgewickelt. 
+[Hier geht es zur Registrierung](https://luma.com/92tythyx) 
+
+Die Registrierung zum Workshop wird durch den KI Bundesverband bearbeitet.
