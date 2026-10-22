@@ -40,7 +40,7 @@ sidebar:
 #    image_alt: "image"
 #    text: "Some text here."
   - title: "Nächste Events"
-    text: "Wir laden alle Interessierte in November zu unserem Workshop in Leipzig ein. [Mehr dazu hier](https://learn2rag.de/events/)"
+    text: "Wir laden alle Interessierte in November zu unserem Workshop am 12.11. in Leipzig ein. [Mehr dazu hier](https://learn2rag.de/events/)"
 ---
 
 In der heutigen schnelllebigen Geschäftswelt sind Unternehmen und öffentliche Einrichtungen
