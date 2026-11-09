@@ -4,13 +4,13 @@ layout: single
 permalink: /downloads
 ---
 
-## Die neueste Version (v1.0.0)
+## Die neueste Version (v1.1.0)
 
 * 📦 [Linux (Kernel 3.2+, glibc 2.17+)](
-https://files.dice-research.org/projects/Learn2RAG/releases/v1.0.0/learn2rag-linux.zip
+https://files.dice-research.org/projects/Learn2RAG/releases/v1.1.0/learn2rag-linux.zip
 )
 * 📦 [Windows (Windows 10+, Windows Server 2016+)](
-https://files.dice-research.org/projects/Learn2RAG/releases/v1.0.0/learn2rag-windows.zip
+https://files.dice-research.org/projects/Learn2RAG/releases/v1.1.0/learn2rag-windows.zip
 )
 
 ### Dokumentation
