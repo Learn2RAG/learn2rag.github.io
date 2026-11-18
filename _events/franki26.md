@@ -1,7 +1,7 @@
 ---
-title: "Learn2RAG bei FranKI"
-date: 2026-03-19
-event_date: 2026-04-19
+title: "FranKI – KI verständlich gemacht"
+date: 2026-11-18
+event_date: 2026-04-29
 layout: single
 permalink: /events/franki26/
 categories: events
